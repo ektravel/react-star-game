@@ -1,3 +1,37 @@
 .App {
   text-align: center;
 }
+
+.fa-star {
+	margin:0.5em;
+  font-size: 24px; 
+  animation-name: fa-star;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes fa-star {
+  from {color:silver;}
+  to {color: orange;}
+}
+
+span{
+	display:inline-block;
+  margin:0.5em;
+  text-align: center;
+  background-color: #ccc;
+  width: 24px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.selected {
+	background-color: #eee;
+  color: #ddd;
+  cursor: not-allowed;
+}
+
+.used {
+	background-color: #aaddaa;
+  color: #99bb99;
+}

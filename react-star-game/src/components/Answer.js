@@ -8,7 +8,7 @@ const Answer = props => {
             ()=> props.unselectNumber(number)}> 
             {number}
         </span>
-        )};
+        )}
     </div>
     );
 }

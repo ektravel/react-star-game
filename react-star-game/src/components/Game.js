@@ -94,7 +94,7 @@ class Game extends Component {
         } = this.state;
         return(
         <div className = "container">
-            <h3>Play Nine</h3>
+            <h2>Count the Stars</h2>
             <hr/>
             <div className = "row">
                 <Stars numberOfStars = {randomNumberOfStars}/>
