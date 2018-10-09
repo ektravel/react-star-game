@@ -35,3 +35,8 @@ span{
 	background-color: #aaddaa;
   color: #99bb99;
 }
+
+h2 {
+  font-weight: bolder;
+  font-size: 3em;
+}
