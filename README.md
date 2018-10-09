@@ -5,5 +5,5 @@ Technologies used:
 * Underscore.js
 * Node.js
 
-Press [here](https://ektravel.github.io/react-star-game/) to play.
+Press [here](https://rocky-earth-99602.herokuapp.com/) to play.
 
