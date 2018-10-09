@@ -5,3 +5,5 @@ Technologies used:
 * Underscore.js
 * Node.js
 
+Press [here](https://ektravel.github.io/react-star-game/) to play.
+
